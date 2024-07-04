@@ -130,6 +130,7 @@
   display: inline-block;
   border: 2px solid #232323;
   border-radius: 100%;
+  transition: 0,5s;
 }
 .footer_main .bb:hover{
 background-color: #7c4dff;
